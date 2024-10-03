@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dhairyapatil/static/css/main.6d3d231e.css",
+    "main.js": "/dhairyapatil/static/js/main.6835324c.js",
+    "static/js/453.ab4135c4.chunk.js": "/dhairyapatil/static/js/453.ab4135c4.chunk.js",
+    "static/media/logo.svg": "/dhairyapatil/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/dhairyapatil/index.html",
+    "main.6d3d231e.css.map": "/dhairyapatil/static/css/main.6d3d231e.css.map",
+    "main.6835324c.js.map": "/dhairyapatil/static/js/main.6835324c.js.map",
+    "453.ab4135c4.chunk.js.map": "/dhairyapatil/static/js/453.ab4135c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d3d231e.css",
+    "static/js/main.6835324c.js"
+  ]
+}
