@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/dhairyapatil/static/css/main.6d3d231e.css",
-    "main.js": "/dhairyapatil/static/js/main.6835324c.js",
-    "static/js/453.ab4135c4.chunk.js": "/dhairyapatil/static/js/453.ab4135c4.chunk.js",
-    "static/media/logo.svg": "/dhairyapatil/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/dhairyapatil/index.html",
-    "main.6d3d231e.css.map": "/dhairyapatil/static/css/main.6d3d231e.css.map",
-    "main.6835324c.js.map": "/dhairyapatil/static/js/main.6835324c.js.map",
-    "453.ab4135c4.chunk.js.map": "/dhairyapatil/static/js/453.ab4135c4.chunk.js.map"
+    "main.css": "/gaming-app/static/css/main.6d3d231e.css",
+    "main.js": "/gaming-app/static/js/main.f40e80c3.js",
+    "static/js/453.ab4135c4.chunk.js": "/gaming-app/static/js/453.ab4135c4.chunk.js",
+    "static/media/logo.svg": "/gaming-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/gaming-app/index.html",
+    "main.6d3d231e.css.map": "/gaming-app/static/css/main.6d3d231e.css.map",
+    "main.f40e80c3.js.map": "/gaming-app/static/js/main.f40e80c3.js.map",
+    "453.ab4135c4.chunk.js.map": "/gaming-app/static/js/453.ab4135c4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6d3d231e.css",
-    "static/js/main.6835324c.js"
+    "static/js/main.f40e80c3.js"
   ]
 }
